@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Thank you for visiting my website. I'm a current studentt at the University of New South Wales.
 
 Andy's Personal Website
 ======
